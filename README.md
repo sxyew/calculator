@@ -1,4 +1,4 @@
-# Calculator by string expression
+# Calculator by string expression - 2 hours
 
 This solution is coded under the following rules:
 - String expression will always only consist of numbers and operators, separated by spaces.
